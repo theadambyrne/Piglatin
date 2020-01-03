@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2F86FC0F-3200-4F5C-9B9B-0DF629130F7D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Piglatin/Program.cs">
+    <Files>
+      <File FileName="Piglatin/Program.cs" Line="9" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Piglatin FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/adambyrne/Code/Piglatin/Piglatin/bin/Debug/netcoreapp3.0/Piglatin
+/Users/adambyrne/Code/Piglatin/Piglatin/bin/Debug/netcoreapp3.0/Piglatin.deps.json
+/Users/adambyrne/Code/Piglatin/Piglatin/bin/Debug/netcoreapp3.0/Piglatin.runtimeconfig.json
+/Users/adambyrne/Code/Piglatin/Piglatin/bin/Debug/netcoreapp3.0/Piglatin.runtimeconfig.dev.json
+/Users/adambyrne/Code/Piglatin/Piglatin/bin/Debug/netcoreapp3.0/Piglatin.dll
+/Users/adambyrne/Code/Piglatin/Piglatin/bin/Debug/netcoreapp3.0/Piglatin.pdb
+/Users/adambyrne/Code/Piglatin/Piglatin/obj/Debug/netcoreapp3.0/Piglatin.csprojAssemblyReference.cache
+/Users/adambyrne/Code/Piglatin/Piglatin/obj/Debug/netcoreapp3.0/Piglatin.AssemblyInfoInputs.cache
+/Users/adambyrne/Code/Piglatin/Piglatin/obj/Debug/netcoreapp3.0/Piglatin.AssemblyInfo.cs
+/Users/adambyrne/Code/Piglatin/Piglatin/obj/Debug/netcoreapp3.0/Piglatin.dll
+/Users/adambyrne/Code/Piglatin/Piglatin/obj/Debug/netcoreapp3.0/Piglatin.pdb
